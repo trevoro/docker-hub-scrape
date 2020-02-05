@@ -1,0 +1,8 @@
+{
+  "database": "scrape_dev",
+  "host": "localhost",
+  "user": "i_am_a_meat_popsicle",
+  "pass": "",
+  "port": 5432
+}
+
